@@ -32,6 +32,8 @@ Lógica da Aplicação
 
 O funcionamento do sistema pode ser representado pelo seguinte fluxo:
 
+![Fluxo do Sistema](Fluxo_sistema_consumo.png)
+
 ## 🧠 Conceitos de Programação Utilizados
 
 Durante o desenvolvimento foram aplicados conceitos fundamentais da linguagem Python, como:
@@ -89,10 +91,15 @@ A classificação apresentada pelo sistema possui caráter educativo e busca inc
 ## 📚 Contexto Acadêmico
 
 **Curso:** Técnico em Desenvolvimento de Sistemas
+
 **Instituição:** ETEC Rubens de Faria e Souza
+
 **Disciplina:** Desenvolvimento de Sistemas I
+
 **Atividade:** Agenda 07 — Classificação de Consumo de Água
+
 **Linguagem:** Python
+
 **Professor:** 	PAULO EDUARDO CARDOSO ANDRADE
 
 ---
